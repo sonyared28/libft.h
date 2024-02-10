@@ -35,6 +35,6 @@ char	*ft_strdup(char *src)
 
 // int	main(void)
 // {
-// 	printf("%s", ft_strdup("Bratka, nu che, kak ty? - Otvet' mne kratko"));
+// 	printf("%s", ft_strdup("Hello World!"));
 // 	return (0);
 // }
